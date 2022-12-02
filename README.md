@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Farkhod - **Lead Application Developer**
 - 👀 I’m interested in application development
-- 💞️ I’m looking to collaborate on interesting Flutter projects
+- 💼 Currently working as a mobile software engineer in a US based startup [RestartBank](https://restartbank.com)  
+- 🍎 15+ published apps so far
+- 💙 I’m looking to collaborate on interesting Flutter projects
 - 📫 How to reach me: https://t.me/fsayfitdinov
-- 15+ published apps so far(from scratch by myself)
-- Currently working as a mobile software engineer in a US based startup [RestartBank](https://restartbank.com) 
 
 
-**Large and small scale of applications so far:**
+**Large and small scale of applications so far:(all of them have been developed and published from scratch by myself)**
 
 <h1>1. BnB Coffe House</h1>
 
