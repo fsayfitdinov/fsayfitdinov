@@ -15,7 +15,7 @@
 * Food & drink
 
 <picture>
-  <img alt="BnB Coffe" src="https://media-cdn.tripadvisor.com/media/photo-p/13/25/6d/49/b-b-coffee-house.jpg">
+  <img alt="BnB Coffe" src="https://lh3.googleusercontent.com/UUFuYqniZz8QlpH3d-z8cDFKosc1dfoVOJgppTm5KiG-XsfN8UjnLq9KJNUSp7UieQ">
 </picture>
 
  [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.bnb.android)
@@ -44,7 +44,7 @@
  * Clothing
 
 <picture>
-  <img alt="DI Sport" src="https://www.afisha.uz/uploads/media/2006/12/0239779_m.jpg">
+  <img alt="DI Sport" src="https://lh3.googleusercontent.com/YXaEwV3_5XVFC-x41LiSC_vHnA8KqnMBw0DsqgiOyD_k4zZMtuhl1YaSra6TllX0cdCL">
 </picture>
 
  [Android: Play Market Url](https://play.google.com/store/apps/details?id=com.disport.android)
@@ -212,19 +212,6 @@
  
  
  
- 
- <h1>15. Qamar</h1>
-  
-* Ecommerce
-* Bookshop
-
-<picture>
-  <img alt="Qamar" src="https://cdn.shopify.com/s/files/1/0675/4353/1793/files/2022-10-28_16.29.20_640x.webp?v=1667544790">
-</picture>
-
- [Android: Coming Soon]
- 
- [iOS: Coming Soon]
  
 
 
