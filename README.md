@@ -95,7 +95,7 @@
  
  
  
-    <h1>7.Kokos</h1>
+  <h1>7.Kokos</h1>
   
   * Ecommerce
   * Markteplace
@@ -110,7 +110,7 @@
  
  
  
-    <h1>8. TSS</h1>
+  <h1>8. TSS</h1>
   
   * TMS app
   * Logistics
