@@ -2,9 +2,10 @@
 - 👀 I’m interested in application development
 - 💞️ I’m looking to collaborate on interesting Flutter projects
 - 📫 How to reach me: https://t.me/fsayfitdinov
+- 15+ published apps so far(from scratch by myself)
 
 
-**Large and small scale of applications which are developed from scratch by myself so far:**
+**Large and small scale of applications so far:**
 
 <h1>1. BnB Coffe House</h1>
 
@@ -95,7 +96,7 @@
  
  
  
-  <h1>7.Kokos</h1>
+  <h1>7. Kokos</h1>
   
   * Ecommerce
   * Markteplace
@@ -110,7 +111,7 @@
  
  
  
-  <h1>8. TSS</h1>
+  <h1>8. TSS TMS</h1>
   
   * TMS app
   * Logistics
@@ -123,6 +124,106 @@
  [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.tss.android)
  
  [iOS: App Store Url](https://apps.apple.com/us/app/tss-driver/id1606621972) 
+ 
+ 
+ 
+  <h1>9. Mix Burger</h1>
+  
+* Ecommerce
+* Food & drink
+
+<picture>
+  <img alt="Mix Burger" src="https://lh3.googleusercontent.com/x29_fz0W4ziVwfdixsCGK22h0Cwg6dqngAAD_d-YlTjae91iCHXudu_qYcAyKlvod9w">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.mixburger.app)
+ 
+ [iOS: App Store Url](https://apps.apple.com/us/app/mix-burger/id6443525496) 
+ 
+ 
+  <h1>10. Mix Burger Courier</h1>
+  
+* Courier App
+
+<picture>
+  <img alt="Mix Burger" src="https://lh3.googleusercontent.com/x29_fz0W4ziVwfdixsCGK22h0Cwg6dqngAAD_d-YlTjae91iCHXudu_qYcAyKlvod9w">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.mixburger.courier)
+ 
+ [iOS: Coming Soon]
+ 
+ 
+ 
+  <h1>11. Cake Lab</h1>
+  
+* Ecommerce
+* Food & Drink
+
+<picture>
+  <img alt="Cake" src="https://lh3.googleusercontent.com/PDnGPJcjWTlRu6eSbhIDbYxFsKx4-8nzWC8ZK4K_CDFWYmFaF72lPedycm3FdNdvlw">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.cakelab.android)
+ 
+ [iOS: App Store Url](https://apps.apple.com/us/app/cake-lab/id1615568010) \
+ 
+ 
+ 
+ 
+ 
+   <h1>12. Safia Courier</h1>
+  
+* Courier App
+
+<picture>
+  <img alt="Safia" src="https://lh3.googleusercontent.com/gy4ATW2ajqfF5_22VoHWYtCdZZ071MU4xxDXF_8JL6WUKlPF3nkqWy-rF-_dZs5EEBI">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.safiacourier.app)
+ 
+ 
+ 
+ 
+ 
+  <h1>13. Montella Delivery</h1>
+  
+* Courier App
+
+<picture>
+  <img alt="Safia" src="https://lh3.googleusercontent.com/x-L7byVEGA2RSwXkelmk_JCftItTJx5VbtqKkHKnVObe_LmX75m9Y0iljtx_bmOxmlE">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.montelladriver.app)
+ 
+ 
+ 
+ 
+  <h1>14. Beshqozon Courier</h1>
+  
+* Courier App
+
+<picture>
+  <img alt="Beshqozon" src="https://lh3.googleusercontent.com/IzASBrRaRIaaLrujOwOyOUg6dms-ZY4jJ17THLb84Vc0ucR_g__Z_w5dUNuJ9-7V7lM">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.beshqozon.delivery)
+ 
+ 
+ 
+ 
+ <h1>15. Qamar</h1>
+  
+* Ecommerce
+* Bookshop
+
+<picture>
+  <img alt="Qamar" src="https://cdn.shopify.com/s/files/1/0675/4353/1793/files/2022-10-28_16.29.20_640x.webp?v=1667544790">
+</picture>
+
+ [Android: Coming Soon]
+ 
+ [iOS: Coming Soon]
  
 
 
