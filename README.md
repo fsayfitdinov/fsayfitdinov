@@ -94,5 +94,35 @@
  [iOS: App Store Url](https://apps.apple.com/us/app/vozz-app/id1572775296)
  
  
+ 
+    <h1>7.Kokos</h1>
+  
+  * Ecommerce
+  * Markteplace
+
+<picture>
+  <img alt="TSS" src="https://lh3.googleusercontent.com/rOuwxNlq-NkMyFXmKA-issgsJVEUuN88_cjXUCJl3OkRw58xiYP0CSEWeY8ESphwGYLv">
+</picture>
+
+ [Android: Coming soon]
+ 
+ [iOS: App Store Url](https://apps.apple.com/us/app/kokos/id1644573606)
+ 
+ 
+ 
+    <h1>8. TSS</h1>
+  
+  * TMS app
+  * Logistics
+  * Truck Tracking
+
+<picture>
+  <img alt="TSS" src="https://lh3.googleusercontent.com/RT9XkG0HPAghez0SE6JHUjEal4YuOqXAEfd7UUQOMfrr1a25-6HoJ2FfcRvwAm9cfLw">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.tss.android)
+ 
+ [iOS: App Store Url](https://apps.apple.com/us/app/tss-driver/id1606621972) 
+ 
 
 
