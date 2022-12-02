@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on interesting Flutter projects
 - 📫 How to reach me: https://t.me/fsayfitdinov
 - 15+ published apps so far(from scratch by myself)
+- Currently working as a mobile software engineer in a US based startup [RestartBank](https://restartbank.com) 
 
 
 **Large and small scale of applications so far:**
