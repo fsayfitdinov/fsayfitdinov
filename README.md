@@ -10,7 +10,7 @@
 
 <h1>1. BnB Coffe House</h1>
 
-* Over 10k downloads in total
+* Over 15k downloads in total
 * Ecommerce
 * Food & drink
 
