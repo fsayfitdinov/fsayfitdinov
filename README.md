@@ -44,8 +44,7 @@
  
  <h1>3. DI Sport</h1>
  
- * Ecommerce
- * Clothing
+ * Shopping
 
 <picture>
   <img alt="DI Sport" src="https://lh3.googleusercontent.com/YXaEwV3_5XVFC-x41LiSC_vHnA8KqnMBw0DsqgiOyD_k4zZMtuhl1YaSra6TllX0cdCL">
@@ -74,7 +73,6 @@
  
    <h1>5. Just 2010</h1>
   
-  * Clothing
   * Feed
 
 <picture>
@@ -103,8 +101,7 @@
  
   <h1>7. Kokos</h1>
   
-  * Ecommerce
-  * Markteplace
+  * Shopping
 
 <picture>
   <img alt="TSS" src="https://lh3.googleusercontent.com/rOuwxNlq-NkMyFXmKA-issgsJVEUuN88_cjXUCJl3OkRw58xiYP0CSEWeY8ESphwGYLv">
