@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Farkhod - **Lead Application Developer**
+- 👋 Hi, I’m Farkhod - **Application Developer**
 - 👀 I’m interested in application development
 - 💼 Currently working as a mobile software engineer in a US based startup [RestartBank](https://restartbank.com)  
 - 🍎 15+ published apps so far
