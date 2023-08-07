@@ -8,7 +8,56 @@
 
 **Large and small scale of applications so far:(all of them have been developed and published from scratch by myself)**
 
-<h1>1. BnB Coffe House</h1>
+
+
+<h1>Safia Cafe & Bakery</h1>
+
+* Over 100k downloads in total
+* Ecommerce
+* Food & drink
+
+<picture>
+  <img alt="Safia" src="https://lh3.googleusercontent.com/ePsM3-mU9SpoT9iTDnItnI96mFv0z70yGeCTQPdxHU5aewq1elpVPPADilaumMhkaw">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.safiabakery.android)
+ 
+ [iOS: App Store Url](https://apps.apple.com/us/app/safia-cafe-bakery/id1554545839)
+
+
+
+ <h1>Bloom Beauty Shop</h1>
+
+
+* Ecommerce
+* Beauty Shopping app
+
+<picture>
+  <img alt="Bloom Beauty Shop" src="https://lh3.googleusercontent.com/xu-Ii0EQhhE9-dttvEjTsJR-HC7NeAHdkUTe-swie-8ADVqF6ThySMs_733XTU6uJi5Z">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.bloom.app)
+ 
+ [iOS: App Store Url](https://apps.apple.com/us/app/bloom-beauty-shop/id6445943128)
+
+
+
+<h1>Beeyor TJ</h1>
+
+* Delivery
+* Ecommerce
+* Food & drink
+
+<picture>
+  <img alt="Beeyor" src="https://lh3.googleusercontent.com/nCDR5ZDu_PVAljJFx6mRa27mQFicdeTKOOpZ2_avdSsPuTsTEibKFZGWZE7UjBa4pw">
+</picture>
+
+ [Android: Play Market Url](https://play.google.com/store/apps/details?id=tj.beeyor.app)
+ 
+ [iOS: App Store Url](https://apps.apple.com/us/app/beeyor-tj/id6450581920)
+ 
+
+<h1>BnB Coffe House</h1>
 
 * Over 15k downloads in total
 * Ecommerce
@@ -25,7 +74,7 @@
  
  
  
- <h1>2. TSS TMS</h1>
+ <h1>TSS TMS</h1>
   
   * TMS app
   * Logistics
@@ -42,7 +91,7 @@
  
  
  
- <h1>3. DI Sport</h1>
+ <h1>DI Sport</h1>
  
  * Shopping
 
@@ -56,7 +105,7 @@
  
  
  
-  <h1>4. Tana</h1>
+  <h1>Tana</h1>
   
   * CRM Application
 
@@ -71,7 +120,7 @@
  
  
  
-   <h1>5. Just 2010</h1>
+   <h1>Just 2010</h1>
   
   * Feed
 
@@ -84,7 +133,7 @@
  [iOS: App Store Url](https://apps.apple.com/us/app/just-2010/id1598800870)
  
  
-   <h1>6. Vozz App</h1>
+   <h1>Vozz App</h1>
   
   * Auction
   * Marketplace
@@ -99,7 +148,7 @@
  
  
  
-  <h1>7. Kokos</h1>
+  <h1> Kokos</h1>
   
   * Shopping
 
@@ -115,7 +164,7 @@
  
  
  
- <h1>8. Paul</h1>
+ <h1>Paul</h1>
 
 * Food&Drink
 * Ecommerce
@@ -134,7 +183,7 @@
  
  
  
-  <h1>9. Mix Burger</h1>
+  <h1>Mix Burger</h1>
   
 * Ecommerce
 * Food & drink
@@ -148,7 +197,7 @@
  [iOS: App Store Url](https://apps.apple.com/us/app/mix-burger/id6443525496) 
  
  
-  <h1>10. Mix Burger Courier</h1>
+  <h1>Mix Burger Courier</h1>
   
 * Courier App
 
@@ -162,7 +211,7 @@
  
  
  
-  <h1>11. Cake Lab</h1>
+  <h1>Cake Lab</h1>
   
 * Ecommerce
 * Food & Drink
@@ -179,7 +228,7 @@
  
  
  
-   <h1>12. Safia Courier</h1>
+   <h1> Safia Courier</h1>
   
 * Courier App
 
@@ -193,7 +242,7 @@
  
  
  
-  <h1>13. Montella Delivery</h1>
+  <h1> Montella Delivery</h1>
   
 * Courier App
 
@@ -205,7 +254,7 @@
  
  
  
-   <h1>14. Breadly Courier</h1>
+   <h1> Breadly Courier</h1>
   
 * Courier App
 
@@ -217,16 +266,7 @@
  
  
  
- 
-  <h1>15. Beshqozon Courier</h1>
-  
-* Courier App
 
-<picture>
-  <img alt="Beshqozon" src="https://lh3.googleusercontent.com/IzASBrRaRIaaLrujOwOyOUg6dms-ZY4jJ17THLb84Vc0ucR_g__Z_w5dUNuJ9-7V7lM">
-</picture>
-
- [Android: Play Market Url](https://play.google.com/store/apps/details?id=uz.beshqozon.delivery)
  
  
  
